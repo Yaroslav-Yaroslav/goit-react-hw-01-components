@@ -1,0 +1,20 @@
+.item {
+    border: 0.5px solid rgba(0, 0, 0, 0.15);
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.15);
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
+.status {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+.avatar {
+  width: 100px;
+}
+.name {
+  font-size: 26px;
+  font-weight: 500;
+}
